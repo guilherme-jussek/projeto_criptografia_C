@@ -1,1 +1,6 @@
-Resultado da criptografia
+Palavra original: CORACAO
+SHIFT: 3
+Sequencia: Fibonacci
+Cesar: FRUDFDR
+Palavra codificada: GSWGKLe
+Letras: 7
